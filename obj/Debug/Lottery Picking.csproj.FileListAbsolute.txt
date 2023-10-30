@@ -1,0 +1,16 @@
+C:\Users\Jerry\source\repos\Lottery Picking\obj\Debug\Lottery Picking.csprojAssemblyReference.cache
+C:\Users\Jerry\source\repos\Lottery Picking\obj\Debug\Lottery_Picking.Form1.resources
+C:\Users\Jerry\source\repos\Lottery Picking\obj\Debug\Lottery_Picking.Properties.Resources.resources
+C:\Users\Jerry\source\repos\Lottery Picking\obj\Debug\Lottery Picking.csproj.GenerateResource.cache
+C:\Users\Jerry\source\repos\Lottery Picking\obj\Debug\Lottery Picking.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\source\repos\Lottery Picking\bin\Debug\Let's Pick.exe.manifest
+C:\Users\Jerry\source\repos\Lottery Picking\bin\Debug\Let's Pick.application
+C:\Users\Jerry\source\repos\Lottery Picking\bin\Debug\Let's Pick.exe
+C:\Users\Jerry\source\repos\Lottery Picking\bin\Debug\Let's Pick.pdb
+C:\Users\Jerry\source\repos\Lottery Picking\obj\Debug\Let's Pick.exe.manifest
+C:\Users\Jerry\source\repos\Lottery Picking\obj\Debug\Let's Pick.application
+C:\Users\Jerry\source\repos\Lottery Picking\obj\Debug\Let's Pick.exe
+C:\Users\Jerry\source\repos\Lottery Picking\obj\Debug\Let's Pick.pdb
+C:\Users\Jerry\source\repos\Lottery Picking\obj\Debug\Lottery_Picking.AboutBox1.resources
+C:\Users\Jerry\source\repos\Lottery Picking\obj\Debug\Lottery_Picking.Key_Form.resources
+C:\Users\Jerry\source\repos\Lottery Picking\obj\Debug\Let's Pick.TrustInfo.xml
